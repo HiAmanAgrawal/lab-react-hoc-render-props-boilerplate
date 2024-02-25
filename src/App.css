@@ -1,0 +1,17 @@
+/* App.css */
+.app-container {
+  text-align: center;
+  margin: 20px auto;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
